@@ -1,0 +1,16 @@
+{
+  "name": "patter-custom-llm",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "getpatter": "^0.4.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.4.0"
+  }
+}
